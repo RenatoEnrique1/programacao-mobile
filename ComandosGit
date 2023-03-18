@@ -1,0 +1,15 @@
+git clone https://github.com/RenatoEnrique1/programacao-mobile.git
+
+**Nome:** Renato Enrique
+**Disciplina:** Desenvolvimento para dispositivos móveis
+
+[Teste](www.github.com)
+
+------------------------------------------------------------------
+
+git status -- mostra o que foi modificado
+
+git add README.md -- adiciona um arquivo específico
+
+git add . - adiciona todos os arquivos
+
