@@ -1,0 +1,27 @@
+Arquitetura Orientada a Serviço: A comunicação entre dispositivos móveis e servidores ocorre por meio da Arquitetura Orientada a Serviço (SOA). Essa abordagem envolve a disponibilização de serviços específicos que são consumidos pelos dispositivos móveis.
+
+Servidores HTTP: Exemplos de servidores, como Apache, Tomcat, Nginx e IIS, são responsáveis por receber as requisições dos dispositivos móveis e fornecer as respostas adequadas.
+
+Comunicação com o servidor de aplicação: A comunicação entre o dispositivo móvel e o servidor de aplicação pode ocorrer de forma conjunta ou separada. A lógica do servidor pode estar no mesmo local físico do aplicativo ou em um servidor remoto.
+
+Banco de Dados Relacional: Opções como MySQL, SQL Server e Postgres são mencionadas como bancos de dados relacionais para armazenar dados estruturados e relacionais em aplicativos móveis.
+
+Banco de Dados NoSQL: Esses bancos de dados são flexíveis e escaláveis para lidar com dados não estruturados ou semi-estruturados.
+
+Clientes Magros: São clientes que possuem apenas uma camada e não apresentam código de aplicação personalizado. Eles dependem totalmente do servidor e são comumente usados em navegadores web.
+
+SOAP (Simple Object Access Protocol): É um protocolo que utiliza XML sobre HTTP para a comunicação entre o dispositivo móvel e o servidor. Ele permite a troca de informações estruturadas entre diferentes sistemas.
+
+XML (Extensible Markup Language): É utilizado como uma representação de documento semi-estruturado. Ele é composto por elementos e atributos que permitem a organização e descrição dos dados.
+
+REST (Representational State Transfer): Baseia-se no uso adequado dos métodos HTTP (GET, POST, PUT, DELETE) para permitir a interação entre dispositivos móveis e servidores.
+
+Clientes Gordos: Possuem três camadas - interface com o usuário, lógica de negócio e acesso a dados. A comunicação entre esses clientes e o servidor é baixa. Um exemplo de cliente gordo é o WhatsApp.
+
+Nativo: Aplicativos nativos possuem alto desempenho e utilizam o ecossistema da plataforma. No entanto, exigem um maior esforço no desenvolvimento para garantir um desempenho adequado.
+
+Compile-to-Native: Utiliza-se um ambiente de terceiros para compilar a aplicação para diversas plataformas. Exemplos de frameworks incluem React Native, NativeScript e Xamarin. No entanto, dominar esses frameworks pode apresentar certa dificuldade.
+
+Híbrida: São fáceis para desenvolvedores web, pois executam em uma webview. No entanto, podem ser mais lentas em comparação com as aplicações nativas. Exemplos de frameworks híbridos incluem PhoneGap, Cordova e Ionic.
+
+Progressive Web App: São aplicações fáceis de desenvolver e não são aplicativos reais, mas executam no navegador. Oferecem uma experiência semelhante à de um aplicativo nativo, mas não requerem instalação.

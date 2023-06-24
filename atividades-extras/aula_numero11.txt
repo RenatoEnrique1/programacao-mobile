@@ -1,0 +1,21 @@
+Layouts no AndroidStudio
+
+Quando desenvolvemos uma interface de usuário no Android, normalmente começamos com um plano de fundo e adicionamos elementos, como textos, botões e imagens, conhecidos como views e view groups.
+
+Existem várias ferramentas disponíveis para personalizar o design da interface, como ajustar margens, tamanho de fonte, redimensionar elementos e definir a orientação da tela, seja seguindo o padrão de um elemento pai ou criando um layout personalizado.
+
+Também é possível personalizar a exibição do teclado, escolhendo entre um teclado numérico, teclado de senha (onde os caracteres digitados são ocultados) ou outras opções.
+
+As atividades são sequências de ações executadas pelo aplicativo e podem incluir diferentes telas para cada função. Dependendo das interações do usuário, diferentes caminhos podem ser seguidos, como uma atividade de abertura do aplicativo, uma atividade de carregamento inicial, e assim por diante.
+
+No Android, existem cinco tipos principais de layout:
+
+1. Linear Layout: Organiza os elementos em uma linha ou coluna.
+
+2. Table Layout: Organiza os elementos em formato tabular.
+
+3. Relative Layout: Organiza os elementos em relação a outros elementos ou ao elemento pai.
+
+4. Absolute Layout: Posiciona os elementos de forma absoluta.
+
+5. Frame Layout: Permite a alteração dinâmica dos elementos que ele contém.

@@ -1,0 +1,23 @@
+Renato Enrique
+
+Melhores Práticas:
+Organização de código, Comentários, Uso eficiente de recursos, Responsividade, Testes, Segurança e Documentação.
+
+Perspectiva:
+A perspectiva é um elemento crucial no desenvolvimento Android, representando um componente da interface do usuário. Ela permite exibir e interagir com elementos gráficos na tela do dispositivo.
+
+A classe View serve como base para diversas outras classes de interface do usuário no Android, como Botão, TextView, ImageView e EditText. Cada uma dessas classes herda da View e acrescenta suas próprias funcionalidades e atributos.
+
+A View pode ser configurada com várias propriedades, como tamanho, posição, cor e transparência. Além disso, ela pode responder a eventos de entrada do usuário, como toques, cliques e gestos.
+
+Componentes e Atributos:
+
+ScrollView: é uma classe que possibilita a rolagem de conteúdo que excede o tamanho da tela do dispositivo. Caso você tenha um layout com muitos elementos que não caibam na tela, é possível colocá-los dentro de um ScrollView e permitir que o usuário role para visualizar o conteúdo oculto.
+
+CardView: é uma classe que representa um cartão no Material Design e é utilizada para exibir informações de maneira organizada e clara em um layout. O CardView pode conter imagens, texto e outros elementos da interface do usuário.
+
+Orientação: é usada para definir se o aplicativo será exibido no modo horizontal ou vertical.
+
+Componentes essenciais:
+layout_width (largura do layout)
+layout_height (altura do layout)

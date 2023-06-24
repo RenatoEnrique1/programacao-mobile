@@ -1,0 +1,6 @@
+A partir do momento que damos desenvolvimento a uma tela, existes diversos componentes que podem servir para preencher e popular nosso layout?
+
+As activity são extremamente importantes para nosso layout, As activity são as sequencias de atividades do aplicativo, puxando diferentes telas para cada função e dependendo
+da ação do usuário segue caminhos diferentes.
+
+Uma activity para quando abre o aplicativo, outra para enquanto carrega o aplicativo, tela inicial e assim por diante.

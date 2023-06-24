@@ -1,0 +1,8 @@
+Shared Preferences: É uma forma de armazenamento que permite gravar pares de chave-valor. É útil para armazenar configurações locais, preferências do usuário ou como cache. Quando o aplicativo é reinstalado, as informações armazenadas nas shared preferences são recriadas. É fácil de usar e não requer configuração adicional.
+
+
+Armazenamento privado: Cada aplicativo possui sua própria área de armazenamento exclusiva para guardar arquivos. Os aplicativos têm a opção de salvar na área de armazenamento público, se desejarem. Os arquivos locais podem estar em formatos como txt (csv, json, xml) ou dat (binário). O acesso aos arquivos locais é mais rápido, não requer conexão com a internet, mas ocupa mais espaço em disco e memória. A leitura, relacionamento e atualização dos dados são mais fáceis de serem realizados.
+
+O que é API? API: Requer conexão com a internet para acessar os dados. É capaz de lidar com grandes volumes de informações e consome pouco espaço no dispositivo. As informações são obtidas de um servidor remoto por meio de requisições.
+
+SQLite: É um banco de dados embutido que suporta grandes volumes de dados. Ele oferece facilidade na localização e manipulação dos dados, incluindo operações de inserção, atualização e exclusão. No entanto, a leitura pode ser um pouco mais lenta e o relacionamento entre tabelas pode ser mais complexo. É necessário escrever mais código para utilizar o SQLite.
