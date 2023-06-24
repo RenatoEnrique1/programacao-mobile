@@ -1,0 +1,6 @@
+
+fragmento: é um recurso para uso de tela dividida e possui um ciclo de vida 
+próprio e que se liga ao ciclo de outra activity.Para criar um fragmento é necessario criar uma pasta "menu"
+dentro da pasta layout que vai corresponder ao menu da tela fragmento
+
+bind: é uma ferramenta para acessar qualquer elemento da tel

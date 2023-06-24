@@ -1,0 +1,21 @@
+Renato Enrique
+
+Poderia refazer esse texto com outras palavras e ordens?:       
+
+Volley: É uma biblioteca desenvolvida pelo Google utilizada para realizar requisições a APIs. No entanto, é essencial destacar que não deve ser invocada na thread principal, pois pode causar bloqueio na interface do usuário.
+
+Atualização do SDK: É necessário atualizar o SDK (Kit de Desenvolvimento de Software) anualmente para se manter atualizado com as novas funcionalidades e correções fornecidas pela plataforma.
+
+Classe anônima: Se a chamada à API for feita em um número limitado de vezes, é possível criar uma classe anônima para lidar com o retorno da chamada. Dessa forma, evita-se a necessidade de criar uma classe separada para cada chamada à API.
+
+Dinâmica das APIs: Cada API tem sua própria natureza e opera de maneiras distintas. Isso implica que cada API pode ter seus próprios métodos e parâmetros específicos, exigindo um mapeamento adequado para sua utilização.
+
+Componentes e classes: Todos os componentes necessários para processar a resposta da API devem ser incluídos na classe correspondente. Isso significa que os dados retornados pela API devem ser mapeados corretamente nos campos e propriedades da classe.
+
+Chamada de retorno: A chamada de retorno é um mecanismo utilizado para receber a resposta da API. Essa chamada de retorno é executada quando a resposta é recebida.
+
+Chamada de retorno no Serviço da API: A chamada de retorno deve ser implementada na classe de serviço da API. Essa classe é responsável por realizar a chamada à API e receber a resposta.
+
+NoResposta: O método NoResposta é acionado quando a resposta da API é bem-sucedida. Nesse momento, é possível acessar e manipular os dados retornados pela API.
+
+Falha na resposta: O método FalhaNaResposta é acionado quando a resposta da API resulta em falha. Nesse caso, é possível tratar o erro e executar ações apropriadas, como exibir mensagens de erro ao usuário.                                                                                                                                             
